@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+.env/
+
+# OS
+.DS_Store
+
+# Data
+data/
+
+# Model artifacts
+*.pkl
+*.joblib
+*.model
+
+# Logs
+*.log
